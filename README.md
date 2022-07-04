@@ -1,4 +1,4 @@
-# CHALLENGE 4 - TTD DE CALCULADORA EM RUBY
+# CHALLENGE 4
 <div id="top"></div>
 
 ## ✨ Sobre o projeto
