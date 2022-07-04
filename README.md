@@ -4,7 +4,7 @@
 ## ✨ Sobre o projeto
 Repositório da Sprint 4 Tech da trilha RealityStone - Compass
 
-Esse repositório contém arquivos desenvolvidos ao longo de duas semanas [21/06/22 - 04/07/22], durante o processo de apredizagem e a realização da Sprint 4. Portanto, estão presentes nele: Exercícios de Ruby Koans, Ferramentas (tools) para acessá-los, e cerca de 90 TDD's para criação de uma Calculadora na linguagem Ruby.
+Esse repositório contém arquivos desenvolvidos ao longo de duas semanas [21/06/22 - 04/07/22], durante o processo de apredizagem e a realização da Sprint 4. Portanto, estão presentes nele: Exemplos e Exercícios de Ruby Koans, Ferramentas (tools) para acessá-los, e cerca de 90 TDD's para criação de uma Calculadora na linguagem Ruby.
 
 
 ## Pré - Requisitos
