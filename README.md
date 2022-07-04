@@ -4,7 +4,15 @@
 ## ✨ Sobre o projeto
 Repositório da Sprint 4 Tech da trilha RealityStone - Compass
 
-Esse repositório contém arquivos desenvolvidos ao longo de duas semanas [21/06/22 - 04/07/22], durante o processo de apredizagem e a realização da Sprint 4. Portanto, estão presentes nele: Exemplos e Exercícios de Ruby Koans, Ferramentas (tools) para acessá-los, e cerca de 90 TDD's para criação de uma Calculadora na linguagem Ruby.
+Esse repositório contém arquivos desenvolvidos ao longo de duas semanas [21/06/22 - 04/07/22], durante o processo de apredizagem e a realização da Sprint 4. Portanto, estão presentes nele: 
+
+* Exemplos e Atividades de Ruby Koans 🗸
+
+* O arquivo src com as funções e defs 🗸
+
+* O arquivo specs com um exemplo de imc e cerca de 90 TDD's para criação de testes em uma Calculadora na Linguagem Ruby 🗸
+
+* Arquivos Gemfiles: ferramentas para realizá-los 🗸
 
 
 ## Pré - Requisitos
@@ -99,7 +107,7 @@ Frameworks e Bibliotecas necessárias durante o processo:
 * Para executar os TDD's da Calculadora:
 
    ```sh
-   bundle exec rspec specs/calculadora_spec.rb
+   rspec specs/calculadora_spec.rb
    ```
   
  * Para rodar o Ruby Koans:
@@ -109,14 +117,14 @@ Frameworks e Bibliotecas necessárias durante o processo:
    ```
    
 
-## Contribuidores
+### Contribuidores
 
 * 🧭[Compass](https://compass.uol/) - Jaques e Luis <3
 * Tech da trilha RealityStone - Ruby e Versionamento de Código
 * Colegas: Matheus Maschio, Mateus Miri, Daniel, Carlos!
 
 
-### 💗 Agradecimentos
+### Agradecimentos 💗
 
 * Gostaria de agradecer aos meus colegas pela ajuda diária e retirada de dúvidas no Discord;
 
@@ -124,9 +132,9 @@ Frameworks e Bibliotecas necessárias durante o processo:
 
 * A mim mesma por não ter desistido e ter aprendido uma nova linguagem dentro da área da tecnologia.
 
-### 📍 Autor
+### Autor
 
-Luiza Tonatto
+#### 📍 Luiza Tonatto
 
 
 #### Contato
